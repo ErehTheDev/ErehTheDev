@@ -22,12 +22,12 @@
 
 ### 📂 Featured Projects
 
-- 🎯 [Hangman Game](https://github.com/ErehTheDev/hangman-game) — Word guessing game with interactive UI.
-- ✅ [To-Do List](https://github.com/ErehTheDev/todo-list) — Clean and simple task manager.
-- 🔢 [Guess The Number](https://github.com/ErehTheDev/guess-the-number) — Try to guess the number between 1 and 10!
-- 🪟 [Popup Modal](https://github.com/ErehTheDev/modal-popup) — Practice with modals and event handling.
-- ⏰ [Digital Clock](https://github.com/ErehTheDev/digital-clock) — A stylish live clock built in JS.
-- ➕ [Counter App](https://github.com/ErehTheDev/counter-app) — Increment & reset counter using DOM manipulation.
+- 🎯 [Hangman Game](https://github.com/ErehTheDev/Hangman-Game-Project) — Word guessing game with interactive UI.
+- ✅ [To-Do List](https://github.com/ErehTheDev/To-Do-List) — Clean and simple task manager.
+- 🔢 [Guess The Number](https://github.com/ErehTheDev/Guess-the-Number-Game) — Try to guess the number between 1 and 10!
+- 🪟 [Popup Modal](https://github.com/ErehTheDev/Popup-Modal) — Practice with modals and event handling.
+- ⏰ [Digital Clock](https://github.com/ErehTheDev/Digital-Clock) — A stylish live clock built in JS.
+- ➕ [Counter App](https://github.com/ErehTheDev/Simple-Counter) — Increment & reset counter using DOM manipulation.
 
 ---
 
