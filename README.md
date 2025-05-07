@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by — happy coding! 🚀</p>
+<p align="center">Thanks for stopping by — happy coding! 🚀</p> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q11EMU7D)
