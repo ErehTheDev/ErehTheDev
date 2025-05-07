@@ -40,6 +40,8 @@
   📧 Email: <a href="mailto:developer.mirko@gmail.com">developer.mirko@gmail.com</a>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q11EMU7D)
+
 ---
 
 ### 💡 A bit more about me...
@@ -50,4 +52,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by — happy coding! 🚀</p> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q11EMU7D)
+<p align="center">Thanks for stopping by — happy coding! 🚀</p>
