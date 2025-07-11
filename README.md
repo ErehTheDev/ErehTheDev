@@ -5,6 +5,10 @@
   Passionate about <strong>web design</strong> & <strong>interactivity</strong>, I spend my time building clean, responsive interfaces and learning new things every day.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErehTheDev&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
 ---
 
 <h2 align="center">Technologies & Tools I Use</h2>
@@ -16,6 +20,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm"/>
